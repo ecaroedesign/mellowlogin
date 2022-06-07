@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css" />
+  <meta charset="utf-8" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Mali&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- This was made with GlassGenerator.netlify.app -->
+<div class="glass-container" id="glass">
+  <h1>Welcome Back</h1>
+  <div class="login">
+  <label for="user">Username: </label>
+  <input type="text" id="user space" name="user" placeholder="Username"/><br />
+  <label for="pass">Password: </label>
+  <input type="password" id="pass space" name="pass" placeholder="Password"/><br />
+  <button class="sign-in">Login</button>
+  </div>
+</div>
+
+<div id="background-wrap">
+    <div class="bubble x1"></div>
+    <div class="bubble x2"></div>
+    <div class="bubble x3"></div>
+    <div class="bubble x4"></div>
+    <div class="bubble x5"></div>
+    <div class="bubble x6"></div>
+    <div class="bubble x7"></div>
+    <div class="bubble x8"></div>
+</div>
+</body>
+
+</html>
